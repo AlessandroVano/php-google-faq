@@ -62,9 +62,16 @@ $googleRequestAnswers = [
 <body>
     <header>
         <div class="head">
-            <img src="./img/Google-logo.png" alt=""> 
-            <h1>privacy e termini</h1>
-            <i class="fas fa-th"></i>
+            <div class="sinistra">
+
+                <img src="./img/Google-logo.png" alt=""> 
+                <h1>privacy e termini</h1>
+            </div>
+            <div class="destra">
+
+                <i class="fas fa-th-large"></i>
+                <span> A</span>
+            </div>
 
         </div>
     </header>

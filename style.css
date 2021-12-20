@@ -19,6 +19,17 @@ header{
 
 .head {
     display: flex;
+    justify-content: space-between;
+}
+.sinistra, .destra {
+    display: flex;
+}
+
+.sinistra {
+    justify-content: start;
+}
+.destra {
+    justify-content: end;
 }
 img{
     width: 150px;
@@ -41,4 +52,20 @@ h2{
 
 h1, h2 {
     color: #5f6368;
+}
+
+i {
+    font-size: 30px;
+    color: #5f6368;
+    margin-top: 19px;
+}
+span {
+    margin-top: 13px;
+    margin-left: 20px;
+    margin-right: 22px;
+    margin-bottom: 10px;
+    background-color: tomato;
+    padding: 11px 15px 11px 15px;
+    border-radius: 30px;
+    color: white;
 }

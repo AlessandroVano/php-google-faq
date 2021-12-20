@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.request_answers {
+    max-width: 900px;
+margin-left: 25%;
+}
+
+header{
+    text-align: center;
+    background-color: aquamarine;
+    width: 100%;
+    
+}
+
+.request_answers {
+    text-align: center;
+}
